@@ -1,6 +1,5 @@
 # Hi there, I'm Nathan! 👋
 
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=cloverww04&show_icons=true&theme=tokyonight" />
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverww04&layout=donut" />
 <p>
