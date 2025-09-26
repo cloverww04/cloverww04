@@ -35,7 +35,7 @@
 
 ---
 
-### 🎓 Certifications  
+### 🎓 Self Motivated Learning  
 
 <p align="center">
   <!-- Example Percipio/Accredible badges -->
@@ -64,7 +64,7 @@
 
 </p>
 
-👉 [View Full Certification List](https://skillsoft.digitalbadges.skillsoft.com/profile/nathanclover255322/wallet)  
+👉 [View Full List](https://skillsoft.digitalbadges.skillsoft.com/profile/nathanclover255322/wallet)  
 
 
 
