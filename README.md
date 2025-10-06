@@ -1,4 +1,4 @@
-# Hi there, I'm Nathan! 👋  
+# Hi there, I'm Nathan! 👋 
 
 ### 🚀 About Me
 - 💻 An active hobbyist who found a career in developing 
