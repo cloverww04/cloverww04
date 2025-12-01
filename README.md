@@ -1,5 +1,5 @@
 # Hi there, I'm Nathan! 👋 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)
 ### 🚀 About Me
 - 💻 An active hobbyist who found a career in developing 
 - 📚 Completed **67+ Skillsoft Percipio certifications** across cloud, cybersecurity, leadership, artificial intelligence and development.  
@@ -74,3 +74,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5b6749f-8396-4ad6-981c-26913b6f2a9a" width="1100px" height="200px" />
 </p>
+
+
+---
+
+
+
