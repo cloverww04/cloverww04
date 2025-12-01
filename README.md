@@ -78,5 +78,7 @@
 
 ---
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=cloverww04&theme=github)
+
 
 
