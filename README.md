@@ -78,14 +78,7 @@
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloverww04" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverww04&layout=donut&theme=radical" height="160"/>
-</p>
-
----
 
 
 
