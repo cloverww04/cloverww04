@@ -69,10 +69,13 @@
 
 ---
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloverww04&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverww04&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" width="48%" />
-</p>
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cloverww04&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&layout=compact" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverww04&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" width="400" />
+</div>
+
+
+
 
 ---
 
