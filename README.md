@@ -33,8 +33,6 @@
 
 ---
 
-
-
 ### 🎓 Self Motivated Learning  
 
 <p align="center">
