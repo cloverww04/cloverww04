@@ -2,7 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)
 ### 🚀 About Me
 - 💻 An active hobbyist who found a career in developing 
-- 📚 Completed **67+ Skillsoft Percipio certifications** across cloud, cybersecurity, leadership, artificial intelligence and development.  
+- 📚 Completed **67+ Skillsoft Percipio certifications** across cloud, cybersecurity, leadership, artificial intelligence and development.
+- 🔒 Security + certified
 - 🌱 Always building, experimenting, and growing.  
 
 ---
